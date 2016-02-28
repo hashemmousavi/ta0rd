@@ -1,7 +1,7 @@
 --------------------------------------------------
 --                                              --
---            Developer: @AmirDark              --
---             Support: @DarkTeam               --
+--            Developer: @Ferisystem            --
+--             Support: @TardTeamCh             --
 --                                              --
 --------------------------------------------------
 

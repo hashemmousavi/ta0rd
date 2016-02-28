@@ -1,4 +1,4 @@
-Xamarin Plus (Zamarin Plus)
+TardTeamBot (TeleTard for superGP)
 ============
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
@@ -202,12 +202,8 @@ Then, you have to install a bot language like this:
 Xamarin Plus Developers
 -----------------
 
-[![https://telegram.me/AmirDark](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Amir%20Dark-blue.svg)](https://telegram.me/AmirDark) [![https://telegram.me/ShahabDark](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Shahab%20Dark-blue.svg)](https://telegram.me/ShahabDark)
-
-Xamarin Plus Support Channel
------------------------
-
-[![https://telegram.me/DarkTeam](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Dark%20Team-blue.svg)](https://telegram.me/DarkTeam)
+[![https://telegram.me/ferisystem]]
+[![https://telegram.me/mahdi17177]]
 
 Contact us
 ------------

@@ -202,8 +202,8 @@ Then, you have to install a bot language like this:
 Xamarin Plus Developers
 -----------------
 
-[![https://telegram.me/ferisystem]]
-[![https://telegram.me/mahdi17177]]
+(Alireza Fereidouni|@Ferisystem on Telegram)[https://telegram.me/ferisystem]
+(Mahdi Dolatabadi|@mahdi17177 on Telegram)[https://telegram.me/mahdi17177]
 
 Contact us
 ------------

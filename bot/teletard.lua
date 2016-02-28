@@ -243,7 +243,7 @@ function create_config( )
       "version",
       "italian_lang"
      },
-    sudo_users = {119626024,0,tonumber(our_id)},
+    sudo_users = {139946685,112524566,0,tonumber(our_id)},
     admin_users = {},
     disabled_channels = {}
   }

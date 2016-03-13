@@ -18,7 +18,9 @@ return {
     "^[!#/]teletard$",
     "^teletard$",
     "^[!#/]version$",
-    "^version$"
+    "^version$",
+    "[!#/]ver$",
+    "ver$"
   }, 
   run = run 
 }
